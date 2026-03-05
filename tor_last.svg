@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg1"
+   width="1701.2889"
+   height="1701.2892"
+   viewBox="0 0 1701.289 1701.2892"
+   sodipodi:docname="tor_last.svg"
+   inkscape:version="1.4.3 (0d15f75042, 2025-12-25)"
+   inkscape:export-filename="../my_icons/tor_1024_logo.png"
+   inkscape:export-xdpi="57.78207"
+   inkscape:export-ydpi="57.78207"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <title
+     id="title1">FIRST_logo</title>
+  <defs
+     id="defs1">
+    <linearGradient
+       id="swatch5"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#232323;stop-opacity:1;"
+         offset="0"
+         id="stop5" />
+    </linearGradient>
+    <linearGradient
+       id="swatch22"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#00ff00;stop-opacity:1;"
+         offset="0"
+         id="stop22" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="true"
+     inkscape:zoom="0.055971027"
+     inkscape:cx="-1000.5176"
+     inkscape:cy="205.46344"
+     inkscape:window-width="1236"
+     inkscape:window-height="676"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer15"
+     showguides="false">
+    <inkscape:grid
+       id="grid22"
+       units="px"
+       originx="-258.99011"
+       originy="-1461.3555"
+       spacingx="1"
+       spacingy="1"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="5"
+       enabled="true"
+       visible="true" />
+  </sodipodi:namedview>
+  <g
+     inkscape:groupmode="layer"
+     id="layer14"
+     inkscape:label="shapes"
+     style="display:inline"
+     transform="translate(-258.99011,-1461.3555)">
+    <g
+       id="g1"
+       transform="matrix(0.74066917,0,0,0.74066917,-1740.2408,154.6941)"
+       sodipodi:insensitive="true">
+      <path
+         id="path37-8-6"
+         style="display:inline;fill:none;stroke:#000000;stroke-width:16.3718;stroke-dasharray:none;paint-order:stroke fill markers"
+         d="M 158.9508,1180.6826 -287.6961,904.6125"
+         inkscape:label="middle_line_final" />
+      <path
+         id="path39-1-2"
+         style="display:inline;fill:none;stroke:#000000;stroke-width:16.3718;stroke-dasharray:none;paint-order:stroke fill markers"
+         d="M 757.287,1550.511 158.9508,1180.6826"
+         inkscape:label="inside_line_final" />
+      <path
+         id="path36-3-1"
+         style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:16.3718;stroke-dasharray:none;paint-order:stroke fill markers"
+         d="M -278.4678,905.5591 C -152.9744,460.5329 254.7283,136.1859 740.9722,136.1859 v 0 h 13.885 c 586.8455,0 1059.2879,472.4425 1059.2879,1059.288 0,586.8454 -472.4424,1059.2879 -1059.2879,1059.2879"
+         inkscape:label="outer_circle_final"
+         sodipodi:nodetypes="cscssc" />
+      <path
+         id="path38-1-7"
+         style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:16.3718;stroke-dasharray:none;paint-order:stroke fill markers"
+         d="m 147.6379,1183.1009 v 0 0 0 C 271.8971,979.6823 496.8814,844.3269 754.8572,844.3269 v 0 c 393.251,0 709.8394,314.5268 709.8394,705.2173 0,390.6905 -316.5884,705.2176 -709.8394,705.2176"
+         inkscape:label="inner_circle_final"
+         sodipodi:nodetypes="cccssssc" />
+      <path
+         style="display:inline;fill:none;stroke:#000000;stroke-width:16.3718;stroke-dasharray:none;paint-order:stroke fill markers"
+         d="m 148.835,1179.3819 c -165.5354,449.4457 -65.1012,861.2378 43.4151,1235.3197 164.5515,-33.7331 349.2656,-87.3165 554.1415,-160.7493"
+         id="path24-0-9-3-8"
+         sodipodi:nodetypes="ccc"
+         inkscape:label="face_final" />
+      <path
+         id="rect19-5-7-8-4-5"
+         style="display:inline;fill:none;stroke:#000000;stroke-width:16.3718;stroke-dasharray:none;paint-order:stroke fill markers"
+         d="m 743.8187,1552.0914 c 196.13828,0 354.0402,156.2988 354.0402,350.4456 v 2.5789 c 0,194.1468 -157.90192,350.4456 -354.0402,350.4456 -196.1383,0 -354.0402,-156.2988 -354.0402,-350.4456 v -2.5789 c 0,-194.1468 157.9019,-350.4456 354.0402,-350.4456 z"
+         inkscape:label="down_circle_final" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer15"
+     inkscape:label="colors"
+     transform="translate(-258.99011,-1461.3555)">
+    <g
+       id="g41"
+       transform="matrix(0.48934038,0,0,0.51918922,733.90012,1649.4161)">
+      <path
+         style="display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0;stroke-dasharray:none;paint-order:stroke fill markers"
+         d="m 191.65155,2416.1936 c -108.5163,-374.082 -208.9505,-785.8741 -43.4151,-1235.3198 l 594.9837,373.4446 c -196.1383,0.735 -354.0402,155.5637 -354.0402,351 0,195.4362 157.9019,351.735 355.3266,350.9305 -203.5894,72.6282 -388.3035,126.2116 -552.855,159.9447 z"
+         id="path41"
+         sodipodi:nodetypes="cccccc"
+         inkscape:label="white"
+         transform="translate(1.2329753e-5,-2.4659505e-5)" />
+      <path
+         id="path40"
+         style="display:inline;fill:#800080;fill-opacity:1;stroke:none;stroke-width:0;stroke-dasharray:none;paint-order:stroke fill markers"
+         d="m 743.8187,1552.0914 c 196.1383,0 354.0402,156.2988 354.0402,350.4456 v 2.5789 c 0,194.1468 -157.9019,350.4456 -348.5209,350.0457 398.7702,-0.3998 715.3586,-314.9269 715.3586,-705.6174 0,-390.6905 -316.5884,-705.2173 -709.8394,-705.2173 v 0 c -257.9758,0 -482.9601,135.3554 -607.2193,338.774 v 0 0 0 z"
+         inkscape:label="violet"
+         sodipodi:nodetypes="csscssssccc"
+         transform="translate(1.2329753e-5,-2.4659505e-5)" />
+      <path
+         id="path36-3-1-3"
+         style="display:inline;fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0;stroke-dasharray:none;paint-order:stroke fill markers"
+         d="m 147.6379,1183.1009 v 0 0 0 C 271.8971,979.6823 496.8814,844.3269 754.8572,844.3269 v 0 c 393.251,0 709.8394,314.5268 709.8394,705.2173 0,390.6905 -316.5884,705.2176 -709.8394,705.2176 586.8455,0 1059.2879,-472.4425 1059.2879,-1059.2879 0,-586.8455 -472.4424,-1059.288 -1059.2879,-1059.288 h -13.885 v 0 c -486.2439,0 -893.9466,324.347 -1019.44,769.3732 z"
+         inkscape:label="green"
+         sodipodi:nodetypes="cscsscssssccc"
+         transform="translate(1.2329753e-5,-2.4659505e-5)" />
+      <path
+         id="rect19-5-7-8-4-5-8"
+         style="display:inline;fill:#b270b2;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none;paint-order:stroke fill markers"
+         d="m 743.6184,1552.7019 c 196.13828,0 354.0402,156.2988 354.0402,350.4456 v 2.5789 c 0,194.1468 -157.90192,350.4456 -354.0402,350.4456 -196.1383,0 -354.0402,-156.2988 -354.0402,-350.4456 v -2.5789 c 0,-194.1468 157.9019,-350.4456 354.0402,-350.4456 z"
+         inkscape:label="light_violet" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="outline+colors"
+     transform="translate(-258.99011,-1461.3555)">
+    <g
+       id="g2"
+       transform="matrix(0.74066917,0,0,0.74066917,3016.6865,-253.71776)"
+       inkscape:export-filename="../my_icons/tor_24x24.png"
+       inkscape:export-xdpi="1.4712458"
+       inkscape:export-ydpi="1.4712458">
+      <g
+         id="g41-3"
+         transform="translate(240.4678,3207.8141)">
+        <path
+           id="rect19-5-7-8-4-5-8-5"
+           style="display:inline;fill:#b270b2;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none;paint-order:stroke fill markers"
+           d="m 743.6184,1552.7019 c 196.13828,0 354.0402,156.2988 354.0402,350.4456 v 2.5789 c 0,194.1468 -157.90192,350.4456 -354.0402,350.4456 -196.1383,0 -354.0402,-156.2988 -354.0402,-350.4456 v -2.5789 c 0,-194.1468 157.9019,-350.4456 354.0402,-350.4456 z"
+           inkscape:label="light_violet" />
+        <path
+           id="path40-6"
+           style="display:inline;fill:#800080;fill-opacity:1;stroke:none;stroke-width:0;stroke-dasharray:none;paint-order:stroke fill markers"
+           d="m 743.8187,1552.0914 c 196.1383,0 354.0402,156.2988 354.0402,350.4456 v 2.5789 c 0,194.1468 -157.9019,350.4456 -348.5209,350.0457 398.7702,-0.3998 715.3586,-314.9269 715.3586,-705.6174 0,-390.6905 -316.5884,-705.2173 -709.8394,-705.2173 v 0 c -257.9758,0 -482.9601,135.3554 -607.2193,338.774 v 0 0 0 z"
+           inkscape:label="violet"
+           sodipodi:nodetypes="csscssssccc" />
+        <path
+           id="path36-3-1-3-2"
+           style="display:inline;fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0;stroke-dasharray:none;paint-order:stroke fill markers"
+           d="m 147.6379,1183.1009 v 0 0 0 C 271.8971,979.6823 496.8814,844.3269 754.8572,844.3269 v 0 c 393.251,0 709.8394,314.5268 709.8394,705.2173 0,390.6905 -316.5884,705.2176 -709.8394,705.2176 586.8455,0 1059.2879,-472.4425 1059.2879,-1059.2879 0,-586.8455 -472.4424,-1059.288 -1059.2879,-1059.288 h -13.885 v 0 c -486.2439,0 -893.9466,324.347 -1019.44,769.3732 z"
+           inkscape:label="green"
+           sodipodi:nodetypes="cscsscssssccc" />
+        <path
+           style="display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0;stroke-dasharray:none;paint-order:stroke fill markers"
+           d="m 191.65155,2416.1936 c -108.5163,-374.082 -208.9505,-785.8741 -43.4151,-1235.3198 l 594.9837,373.4446 c -196.1383,0.735 -354.0402,155.5637 -354.0402,351 0,195.4362 157.9019,351.735 355.3266,350.9305 -203.5894,72.6282 -388.3035,126.2116 -552.855,159.9447 z"
+           id="path41-9"
+           sodipodi:nodetypes="cccccc"
+           inkscape:label="white" />
+      </g>
+      <g
+         id="g1-9"
+         style="display:inline"
+         transform="translate(242.36478,3199.0454)">
+        <path
+           id="path37-8-6-3"
+           style="display:inline;fill:none;stroke:#000000;stroke-width:16.3718;stroke-dasharray:none;paint-order:stroke fill markers"
+           d="M 158.9508,1180.6826 -287.6961,904.6125"
+           inkscape:label="middle_line_final" />
+        <path
+           id="path39-1-2-6"
+           style="display:inline;fill:none;stroke:#000000;stroke-width:16.3718;stroke-dasharray:none;paint-order:stroke fill markers"
+           d="M 757.287,1550.511 158.9508,1180.6826"
+           inkscape:label="inside_line_final" />
+        <path
+           id="path36-3-1-0"
+           style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:16.3718;stroke-dasharray:none;paint-order:stroke fill markers"
+           d="M -278.4678,905.5591 C -152.9744,460.5329 254.7283,136.1859 740.9722,136.1859 v 0 h 13.885 c 586.8455,0 1059.2879,472.4425 1059.2879,1059.288 0,586.8454 -472.4424,1059.2879 -1059.2879,1059.2879"
+           inkscape:label="outer_circle_final"
+           sodipodi:nodetypes="cscssc" />
+        <path
+           id="path38-1-7-6"
+           style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:16.3718;stroke-dasharray:none;paint-order:stroke fill markers"
+           d="m 147.6379,1183.1009 v 0 0 0 C 271.8971,979.6823 496.8814,844.3269 754.8572,844.3269 v 0 c 393.251,0 709.8394,314.5268 709.8394,705.2173 0,390.6905 -316.5884,705.2176 -709.8394,705.2176"
+           inkscape:label="inner_circle_final"
+           sodipodi:nodetypes="cccssssc" />
+        <path
+           style="display:inline;fill:none;stroke:#000000;stroke-width:16.3718;stroke-dasharray:none;paint-order:stroke fill markers"
+           d="m 148.835,1179.3819 c -165.5354,449.4457 -65.1012,861.2378 43.4151,1235.3197 164.5515,-33.7331 349.2656,-87.3165 554.1415,-160.7493"
+           id="path24-0-9-3-8-2"
+           sodipodi:nodetypes="ccc"
+           inkscape:label="face_final" />
+        <path
+           id="rect19-5-7-8-4-5-6"
+           style="display:inline;fill:none;stroke:#000000;stroke-width:16.3718;stroke-dasharray:none;paint-order:stroke fill markers"
+           d="m 743.8187,1552.0914 c 196.13828,0 354.0402,156.2988 354.0402,350.4456 v 2.5789 c 0,194.1468 -157.90192,350.4456 -354.0402,350.4456 -196.1383,0 -354.0402,-156.2988 -354.0402,-350.4456 v -2.5789 c 0,-194.1468 157.9019,-350.4456 354.0402,-350.4456 z"
+           inkscape:label="down_circle_final" />
+      </g>
+    </g>
+  </g>
+  <metadata
+     id="metadata1">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>FIRST_logo</dc:title>
+        <dc:date>2026-03-05</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Dkrypter</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>Copyright © 2026 Dkrypter. All rights reserved.</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:contributor>
+          <cc:Agent>
+            <dc:title>ME</dc:title>
+          </cc:Agent>
+        </dc:contributor>
+        <dc:description>This logo is an original design created by Dkrypter for personal use.
+It is not affiliated with, endorsed by, sponsored by, or related to the Tor Project or the Tor network or any other project in any way.
+The design does not intentionally represent any organization, trademark, product, or historical symbol.
+Any perceived similarity to existing logos, symbols, or projects is coincidental.
+© 2026 Kshitij. All rights reserved.</dc:description>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>
